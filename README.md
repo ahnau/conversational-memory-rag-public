@@ -1,1 +1,1 @@
-Persistent Conversational Memory — RAG Reference Architecture
+# Persistent Conversational Memory — RAG Reference Architecture
